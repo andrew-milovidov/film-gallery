@@ -1,0 +1,93 @@
+{
+  "id": 170,
+  "title": "WHERE I’LL FIND MY HAPPINESS",
+  "cover": {
+    "duration": 0,
+    "id": "585",
+    "ready_full": 1,
+    "height": 576,
+    "error": 0,
+    "width": 1024,
+    "ready": 1,
+    "original_ext": "jpg",
+    "host": "signalmediacorp.com",
+    "status": 200,
+    "real_type": "i"
+  },
+  "episodes": {
+    "items": [
+      {
+        "title": "Promo",
+        "video": {
+          "id": "583",
+          "ready": 1,
+          "error": 0,
+          "host": "signalmediacorp.com",
+          "preview": 11,
+          "original_ext": "mp4",
+          "progress": null,
+          "status": 200,
+          "ready_full": 1,
+          "real_type": "v",
+          "width": 960,
+          "height": 540,
+          "duration": "40.000000"
+        },
+        "tracks": [
+          {
+            "audio": {
+              "error": 0,
+              "host": "signalmediacorp.com",
+              "id": "584",
+              "ready": 1,
+              "original_ext": "mp3",
+              "progress": null,
+              "status": 200,
+              "ready_full": 1,
+              "real_type": "a",
+              "width": null,
+              "height": null,
+              "duration": "40.045714"
+            },
+            "language_id": 1
+          }
+        ]
+      }
+    ]
+  },
+  "genre_id": 3,
+  "years_production": "2013",
+  "count_episodes": 1,
+  "format": "HD",
+  "duration": "90 min",
+  "created_at": "2020-07-29 23:44:32",
+  "updated_at": "2020-10-10 14:37:10",
+  "languages": [
+    {
+      "id": 1,
+      "title": "English",
+      "short": "Eng",
+      "pivot": {
+        "language_id": 1,
+        "content_id": 170
+      }
+    },
+    {
+      "id": 8,
+      "title": "Spain",
+      "short": "Spa",
+      "pivot": {
+        "language_id": 8,
+        "content_id": 170
+      }
+    }
+  ],
+  "genre": {
+    "id": 3,
+    "title": "Drama",
+    "color": "rgba(34,132,255,.24)",
+    "description": null,
+    "is_portrait": false,
+    "position": 0
+  }
+}
